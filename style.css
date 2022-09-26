@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(72, 90, 220);
+}
+
+.heading{
+    font-size: 30px;
+}
+
+#text_1{
+    font-size: large;
+    color: white;
+}
+
+#name_txt_1, #name_txt_2{
+    font-size: 20px;
+    width: 200px;
+}
+
+#camera{
+    border: dashed 2px black;
+    width: 350px;
+    height: 300px;
+}
